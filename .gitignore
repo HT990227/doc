@@ -1,0 +1,21 @@
+# OS & editor clutter
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*.swo
+
+# Obsidian trash
+.trash/
+
+# Obsidian workspace (machine-specific state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache/
+.obsidian/updates.json
+
+# Plugin bloat — keep config, skip binary
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/themes/*/theme.css
